@@ -12,6 +12,9 @@ Algumas das funcionalidades:
 
 ![stock trader home](https://user-images.githubusercontent.com/74611686/150450667-f2eb755f-6069-4808-b460-447e17ef42e2.png)
 
+![image](https://user-images.githubusercontent.com/74611686/150450768-149007ab-dd75-4945-b191-392666d985f1.png)
+
+
 -------------------------- 
 ## Project setup
 ```

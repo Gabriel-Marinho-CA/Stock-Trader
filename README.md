@@ -14,6 +14,7 @@ Algumas das funcionalidades:
 
 ![image](https://user-images.githubusercontent.com/74611686/150450768-149007ab-dd75-4945-b191-392666d985f1.png)
 
+![image](https://user-images.githubusercontent.com/74611686/150450865-c73fcc3a-7e6b-4c2f-ae9b-cf0d9f3909fa.png)
 
 -------------------------- 
 ## Project setup
